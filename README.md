@@ -36,7 +36,6 @@ Chatbot Backend is the core of a conversational AI system designed to be modular
 llm-chatbot-backend/
 ├── api/                   # FastAPI application and routes
 ├── cli.py                 # Command-line chatbot client
-├── rag_cli.py             # RAG-based chatbot using documents
 ├── src/
 │   ├── core/              # LLM runners, memory, and tools
 │   ├── services/          # Logic and orchestration
